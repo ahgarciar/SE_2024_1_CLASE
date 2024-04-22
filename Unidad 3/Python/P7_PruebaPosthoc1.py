@@ -27,3 +27,4 @@ data = np.array([datosPromedio, datosMediana, datosValMenor])
 from scikit_posthocs import posthoc_nemenyi_friedman #pip install scikit-posthocs
 res = posthoc_nemenyi_friedman(data.T)
 print(res)
+
