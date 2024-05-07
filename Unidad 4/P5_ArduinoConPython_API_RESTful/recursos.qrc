@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Logos">
+    <file>LogoUAT.png</file>
+    <file>log_uat_nuevo.png</file>
+    <file>FI_LOGO.png</file>
+  </qresource>
+  <qresource prefix="Mascotas"/>
+</RCC>
